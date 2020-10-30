@@ -1,0 +1,30 @@
+
+p{
+	color:red;
+}
+body{
+	
+}
+
+span{
+	color:cyan;
+	font-weight: bold;
+	text-decoration: underline;
+		text-shadow: 2px 2px black;
+}
+
+span:hover{
+	background-color: red;
+	cursor: pointer;
+
+	
+}
+
+.cyan{
+	color:#1affff;
+}
+
+#yellow{
+	color: #ffff99;
+	
+}

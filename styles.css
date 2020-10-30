@@ -1,0 +1,10 @@
+/*Comment in CSS*/
+/*
+property
+	selector & value */
+
+body{
+		color: blue; /*change font to blue*/
+		background-color: red;
+		padding: 40px;
+}
